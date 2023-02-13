@@ -8,7 +8,7 @@ One of my favourite things to do is to see if there are any hidden patterns when
 if you would like to see my power BI dashboard presenting the clusters and how they interact with the attributes they are in the file:
 
 ### data used:
-
+"bank2.xlsx"
 
 ### Project name:
 Clustering Customers Using K-Means: A Data-Driven Approach
